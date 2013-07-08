@@ -1,15 +1,6 @@
 {
 	"installed_packages":
 	[
-		"Bower",
-		"CoffeeScript",
-		"DocBlockr",
-		"EditorConfig",
-		"Emmet",
-		"Grunt",
-		"Package Control",
-		"Sass",
-		"SublimeLinter",
-		"Theme - Soda"
+		"Package Control"
 	]
 }

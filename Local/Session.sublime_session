@@ -1,17 +1,16 @@
 {
 	"folder_history":
 	[
-		"/C/xampp/htdocs/fee-finder",
-		"/C/xampp/htdocs/issue-tracker"
+		"/Users/johnny/Projects/helpdesk",
+		"/Users/johnny"
 	],
 	"last_version": 3047,
-	"last_window_id": 1,
+	"last_window_id": 5,
 	"log_indexing": false,
 	"settings":
 	{
-	},
-	"windows":
-	[
+		"new_window_height": 967.0,
+		"new_window_settings":
 		{
 			"auto_complete":
 			{
@@ -19,45 +18,18 @@
 				[
 				]
 			},
-			"buffers":
-			[
-			],
 			"build_system": "",
 			"command_palette":
 			{
-				"height": 60.0,
+				"height": 47.0,
 				"selected_items":
 				[
-					[
-						"install",
-						"Package Control: Install Package"
-					],
-					[
-						"grunt",
-						"Grunt"
-					],
-					[
-						"install ",
-						"Package Control: Install Package"
-					],
-					[
-						"Package Control: ",
-						"Package Control: Enable Package"
-					],
-					[
-						"package",
-						"Preferences: Package Control Settings – Default"
-					],
-					[
-						"pack",
-						"Preferences: Browse Packages"
-					]
 				],
-				"width": 386.0
+				"width": 392.0
 			},
 			"console":
 			{
-				"height": 176.0,
+				"height": 0.0,
 				"history":
 				[
 				]
@@ -73,15 +45,10 @@
 			},
 			"file_history":
 			[
-				"/C/Users/jfreeman/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
-				"/C/Users/jfreeman/AppData/Roaming/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
-				"/C/Users/jfreeman/AppData/Roaming/Sublime Text 3/Packages/User/consolelog.sublime-snippet",
-				"/C/Users/jfreeman/AppData/Roaming/Sublime Text 3/Packages/Default/Default (Windows).sublime-keymap",
-				"/C/Users/jfreeman/AppData/Roaming/Sublime Text 3/Packages/Package Control/Package Control.sublime-settings"
 			],
 			"find":
 			{
-				"height": 40.0
+				"height": 0.0
 			},
 			"find_in_files":
 			{
@@ -109,57 +76,18 @@
 				"whole_word": false,
 				"wrap": true
 			},
-			"folders":
-			[
-				{
-					"follow_symlinks": true,
-					"path": "C:\\xampp\\htdocs\\fee-finder"
-				}
-			],
-			"groups":
-			[
-				{
-					"sheets":
-					[
-					]
-				}
-			],
 			"incremental_find":
 			{
-				"height": 30.0
+				"height": 23.0
 			},
 			"input":
 			{
 				"height": 0.0
 			},
-			"layout":
-			{
-				"cells":
-				[
-					[
-						0,
-						0,
-						1,
-						1
-					]
-				],
-				"cols":
-				[
-					0.0,
-					1.0
-				],
-				"rows":
-				[
-					0.0,
-					1.0
-				]
-			},
 			"menu_visible": true,
-			"position": "0,0,1,-1,-1,-1,-1,886,308,176,1533",
-			"project": "",
 			"replace":
 			{
-				"height": 56.0
+				"height": 0.0
 			},
 			"save_all_on_build": true,
 			"select_file":
@@ -186,21 +114,20 @@
 				],
 				"width": 0.0
 			},
-			"settings":
-			{
-			},
 			"show_minimap": true,
 			"show_open_files": false,
 			"show_tabs": true,
 			"side_bar_visible": true,
-			"side_bar_width": 244.0,
+			"side_bar_width": 224.0,
 			"status_bar_visible": true,
 			"template_settings":
 			{
-			},
-			"window_id": 1,
-			"workspace_name": ""
-		}
+			}
+		},
+		"new_window_width": 960.0
+	},
+	"windows":
+	[
 	],
 	"workspaces":
 	{
